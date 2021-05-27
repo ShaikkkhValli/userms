@@ -14,12 +14,12 @@ public class SwaggerConfig {
     //http://localhost:8081/swagger-ui/index.html
     //http://localhost:8081/swagger-ui/
     // http://localhost:8082/swagger-ui.html old-does not work
-    @Bean
+   /* @Bean
     public Docketapi() {
         return new Docket(DocumentationType.SWAGGER_2)
                 .select()
                 .apis(RequestHandlerSelectors.any())
                 .paths(PathSelectors.any())
                 .build();
-    }
+    }*/
 }
