@@ -1,4 +1,4 @@
-package annotations;
+package com.shaikkh.userms.resource;
 
 
 public class CustomAnnotaionExample {
